@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My name is **Pratyush Goyal** and I happen to be a good *Programmer*, with a total zero projects till date.
