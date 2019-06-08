@@ -1,0 +1,6 @@
+- Coding
+- Reading
+- Gaming
+  - RPGs
+  - Sports
+  - Simulation
